@@ -10,9 +10,12 @@ Repositorio del **Equipo A** para la entrega del pipeline de **Machine Learning 
 * **Caso de Uso:** *(Pendiente por completar por el integrante)*
 
 ---
-
 ### Proyecto 11: Optimización con GridSearchCV
-* **Caso de Uso:** *(Pendiente por completar por el integrante)*
+
+* **Caso de Uso:** **Diagnóstico de Cáncer de Mama mediante Optimización de Hiperparámetros**
+* **Descripción:** Implementación de escalado de datos (`StandardScaler`) y búsqueda exhaustiva con `GridSearchCV` (validación cruzada `cv=5`) sobre un clasificador `SVC` para encontrar la combinación óptima de hiperparámetros (`C`, `kernel` y `gamma`) aplicada al dataset *Breast Cancer Wisconsin*.
+* **Resultados:** Comparativa del desempeño entre el modelo `SVC` base y el modelo optimizado, evaluando el incremento en *Accuracy* sobre el conjunto de prueba.
+
 
 ---
 
