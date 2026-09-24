@@ -28,8 +28,8 @@ Repositorio del **Equipo A** para la entrega del pipeline de **Machine Learning 
 ##  Archivos en este Repositorio
 
 * `Proyecto_10_Caso_Adaptado.ipynb` — *Notebook del Proyecto 10*
-* `Proyecto_11_Caso_Adaptado.ipynb` — *Notebook del Proyecto 11*
-* `Proyecto_12_Caso_Adaptado_Spam_SMS.ipynb` — *Notebook del Proyecto 12 (Filtro SMS)*
+* `Proyecto11_GridSearchCV_Adaptado.ipynb` — *Notebook del Proyecto 11*
+* `Proyecto12_ClasificacionDeTexto_Adaptado.ipynb` — *Notebook del Proyecto 12 (Filtro SMS)*
 
 ---
 *Materia: Ciencia de Datos — Laboratorio Práctico*
