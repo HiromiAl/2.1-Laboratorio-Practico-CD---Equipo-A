@@ -1,0 +1,14 @@
+brand,model,year,price,mileage,fuel,transmission
+ Toyota ,Corolla,2018,18500,62000,Gasolina,Automatica
+TOYOTA,Camry,2020,24500,35000,gasolina,Automatica
+ Ford ,Fiesta,2017,12900,78000,Gasolina,Manual
+Honda,Civic,2019,21000,41000,Gasolina,Automatica
+ honda ,CR-V,2021,28900,22000,Hibrido,Automatica
+Chevrolet,Onix,2020,,30000,Gasolina,Manual
+Nissan,Versa,2016,9800,95000,Gasolina,Manual
+Mazda,3,2022,27500,12000,Gasolina,Automatica
+Kia,Rio,2015,8500,110000,Gasolina,Manual
+Volkswagen,Jetta,2019,19500,54000,Gasolina,
+Renault, Duster ,2018,17200,69000,Diesel,Manual
+Tesla,Model 3,2021,42000,18000,Electrico,Automatica
+Ford,Mustang,2023,999999,5000,Gasolina,Automatica

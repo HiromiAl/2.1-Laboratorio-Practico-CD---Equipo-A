@@ -6,6 +6,13 @@ Repositorio del **Equipo A** para la entrega del pipeline de **Machine Learning 
 
 ## Casos de Uso Adaptados
 
+### Proyecto 3: Limpieza de datos de autos
+* **Caso de Uso:** Preparacion de datos de vehiculos usados para analizar precios, kilometraje y caracteristicas.
+* **Descripcion:** Limpieza de valores faltantes, normalizacion de texto, transformacion de columnas e identificacion de valores atipicos en precios.
+* **Datos:** Dataset de autos incluido en `autos_para_limpieza.csv`.
+
+---
+
 ### Proyecto 10: Modelo Base de Clasificación
 * **Caso de Uso:** *(Pendiente por completar por el integrante)*
 
@@ -30,6 +37,8 @@ Repositorio del **Equipo A** para la entrega del pipeline de **Machine Learning 
 
 ##  Archivos en este Repositorio
 
+* [`Proyecto 3 Adaptacion Autos.ipynb`](<Proyecto 3 Adaptacion Autos.ipynb>) — Notebook adaptado de limpieza de datos de autos.
+* [`autos_para_limpieza.csv`](autos_para_limpieza.csv) — Dataset utilizado por el notebook.
 * `Proyecto_10_Caso_Adaptado.ipynb` — *Notebook del Proyecto 10*
 * `Proyecto11_GridSearchCV_Adaptado.ipynb` — *Notebook del Proyecto 11*
 * `Proyecto12_ClasificacionDeTexto_Adaptado.ipynb` — *Notebook del Proyecto 12 (Filtro SMS)*
