@@ -6,15 +6,12 @@ Repositorio del **Equipo A** para la entrega del pipeline de **Machine Learning 
 
 ## Casos de Uso Adaptados
 
-### Proyecto 3: Limpieza de datos de autos
+---
+
+### Proyecto 10: Limpieza de datos de autos
 * **Caso de Uso:** Preparacion de datos de vehiculos usados para analizar precios, kilometraje y caracteristicas.
 * **Descripcion:** Limpieza de valores faltantes, normalizacion de texto, transformacion de columnas e identificacion de valores atipicos en precios.
 * **Datos:** Dataset de autos incluido en `autos_para_limpieza.csv`.
-
----
-
-### Proyecto 10: Modelo Base de Clasificación
-* **Caso de Uso:** *(Pendiente por completar por el integrante)*
 
 ---
 ### Proyecto 11: Optimización con GridSearchCV
