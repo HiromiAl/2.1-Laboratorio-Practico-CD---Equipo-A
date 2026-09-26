@@ -34,11 +34,12 @@ Repositorio del **Equipo A** para la entrega del pipeline de **Machine Learning 
 
 ##  Archivos en este Repositorio
 
-* [`Proyecto 3 Adaptacion Autos.ipynb`](<Proyecto 3 Adaptacion Autos.ipynb>) — Notebook adaptado de limpieza de datos de autos.
+* `Proyecto10_Adaptacion_Autos.ipynb` — *Notebook del Proyecto 10*
 * [`autos_para_limpieza.csv`](autos_para_limpieza.csv) — Dataset utilizado por el notebook.
-* `Proyecto_10_Caso_Adaptado.ipynb` — *Notebook del Proyecto 10*
+
 * `Proyecto11_GridSearchCV_Adaptado.ipynb` — *Notebook del Proyecto 11*
-* `Proyecto12_ClasificacionDeTexto_Adaptado.ipynb` — *Notebook del Proyecto 12 (Filtro SMS)*
+
+* `Proyecto12_ClasificacionDeTexto_Adaptado.ipynb` — *Notebook del Proyecto 12 *
 
 ---
 *Materia: Ciencia de Datos — Laboratorio Práctico*
